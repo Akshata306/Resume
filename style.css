@@ -1,0 +1,23 @@
+section{
+    background-color: rgb(219, 223, 227);
+    }
+    h1{
+        font-size: xx-large;
+    }
+    body{
+        font-family: sans-serif;
+    }
+    big{
+        text-decoration: underline;
+    }
+    hr{
+        height: 4px;  
+                background-color: darkgray;
+    }
+    #bold{
+        font-style: bold;
+    }
+    #height{
+        line-height: 35px;
+        font-family: serif;
+    }
